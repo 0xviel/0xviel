@@ -19,3 +19,9 @@ if __name__ == "__main__":
     print(profile.disp_profile())
 
 ```
+
+## 📊 &nbsp;Github Stats
+<a href="https://github.com/0xviel/0xviel">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xviel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xviel&layout=compact&langs_count=8&theme=algolia" />
+</a>
