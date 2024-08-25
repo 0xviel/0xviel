@@ -19,6 +19,7 @@ if __name__ == "__main__":
     print(profile.disp_profile())
 
 ```
+<a href="https://wakatime.com/@2b65a086-d654-4d81-a1fe-c14a429946fd"><img src="https://wakatime.com/badge/user/2b65a086-d654-4d81-a1fe-c14a429946fd.svg" alt="Total time coded since Aug 22 2024" /></a>
 
 ## 📊 &nbsp;Github Stats
 <a href="https://github.com/0xviel/0xviel">
