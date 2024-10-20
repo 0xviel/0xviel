@@ -3,7 +3,7 @@
 ```Python
 class Profile:
     def __init__(self):
-        self.name = "0xviel"
+        self.name = "Dimas"
         self.hobbies = ["Gym", "Boxing", "Martial Arts"]
         self.age = 20
 
