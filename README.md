@@ -4,7 +4,7 @@
 class Profile:
     def __init__(self):
         self.name = "0xviel"
-        self.hobbies = ["FPV-Drone", "Gym", "Boxing", "Brazilian Jiu-Jitsu"]
+        self.hobbies = ["Gym", "Boxing", "Martial Arts"]
         self.age = 20
 
     def disp_profile(self):
