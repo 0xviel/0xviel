@@ -4,8 +4,8 @@
 class Profile:
     def __init__(self):
         self.name = "Dimas"
-        self.hobbies = ["Gym", "Cook"]
-        self.age = 20
+        self.hobbies = ["Bikin hobi baru"]
+        self.age = 21
 
     def disp_profile(self):
         return {
